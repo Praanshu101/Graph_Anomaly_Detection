@@ -5,4 +5,4 @@
 ## Algorithm: Oddball [1]
 
 ## References:
-[1] Akoglu, Leman McGlohon, Mary Faloutsos, Christos. (2010). OddBall: Spotting Anomalies in Weighted Graphs
+[1] Leman Akoglu, Mary McGlohon, Christos Faloutsos. (2010). OddBall: Spotting Anomalies in Weighted Graphs
